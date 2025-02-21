@@ -1,0 +1,8 @@
+selenium
+puppeteer
+chromedriver
+google-spreadsheet
+pdf-parse
+dotenv
+node-fetch
+csv-parse
